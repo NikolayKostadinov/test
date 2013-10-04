@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HelloGithub
+﻿namespace HelloGithub
 {
-    class Program
+    using System;
+
+    class HelloGithub
     {
         static void Main()
         {
